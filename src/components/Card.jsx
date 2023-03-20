@@ -8,7 +8,7 @@ function Card(props) {
         <img className="circle-img" src={props.img} alt="avatar_img" />
       </div>
       <div className="bottom">
-        <a href={props.ln}>linkedin</a>
+        <a href={props.ln}>Linkedin</a>
         <p className="info">{props.tel}</p>
         <p className="info">{props.email}</p>
       </div>

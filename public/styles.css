@@ -10,27 +10,29 @@ body {
 
 .heading {
   text-align: center;
-  font-size: 2em;
+  font-size: 2.5em;
   color: #2d3436;
   margin: 20px 0 30px;
+  font-family: system-ui;
 }
 
 .card {
   border-radius: 25px;
   position: relative;
   padding: 25px 15px;
-  background-color: #81ecec;
+  background-color: azure;
   margin: 50px 0;
   height: 200px;
   box-shadow: 0 2px 5px #ccc;
   text-align: left;
+  font-family: math;
 }
 
 .top {
   border-radius: 25px 25px 0 0;
   height: 100px;
   width: 100%;
-  background-color: #00cec9;
+  background-color: cornflowerblue;
   position: absolute;
   top: 0;
   left: 0;
@@ -38,20 +40,21 @@ body {
 }
 
 .name {
-  font-size: 2em;
-  color: #2d3436;
+  font-size: 1.5em;
+  color: whitesmoke;
   display: flex;
   flex: 1;
   margin: 10% 20px 0;
+  font-family: monospace;
 }
 
 .card img {
-  margin: 30px 20px 0 0;
+  margin: 12px 20px 0 0;
 }
 
 .circle-img {
   border-radius: 50%;
-  border: 7px solid #fff;
+  border: 7px solid #9c9898;;
   width: 120px;
   height: 120px;
 }
@@ -61,6 +64,6 @@ body {
 }
 
 .info {
-  margin: 20px 0;
-  color: #1a7e76;
+  margin: 13px 0;
+  color: cornflowerblue;
 }
