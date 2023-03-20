@@ -21,7 +21,7 @@ const contacts = [
     ln: "https://www.linkedin.com/in/jonnalagadda-chaitanyabrahma-71567426a/"
   },
   {
-    name: "Rohith Korrapati",
+    name: "Rohith korrapati",
     imgURL: "https://media.licdn.com/dms/image/D5603AQGK9c5uXzDr4A/profile-displayphoto-shrink_800_800/0/1675198498838?e=1684972800&v=beta&t=8UMUF69zNS0r-aNMceFMp3YSFUr-Gst93A9jpw-3jbc",
     phone: "+1 (501) 442-0274",
     email: "kemal.aydin@email.franklin.edu",
