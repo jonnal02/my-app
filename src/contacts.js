@@ -28,7 +28,7 @@ const contacts = [
     ln: "https://www.linkedin.com/in/rohith-korrapati-328a19150/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACR1R5ABomtO-o-W3XqjPWo2tSo8j7Gc9bo"
   },
   {
-    name: "Pallavi Poreddy",
+    name: "Pallavi Preddy",
     imgURL: "https://media.licdn.com/dms/image/D4D03AQGlbN44Q05s5Q/profile-displayphoto-shrink_800_800/0/1665446093830?e=1684972800&v=beta&t=iT-Mehtm54e82ZMiDjRtvWISbUPNPM61vkcEzO5Ox4o",
     phone: "+1 (614) 397-8085",
     email: "poreddy05@email.franklin.edu",
