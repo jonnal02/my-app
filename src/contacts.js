@@ -14,7 +14,7 @@ const contacts = [
     ln: "https://www.linkedin.com/in/srikanth-bairu-32396111a/"
   },
   {
-    name: "Jonnalagadda Chaitanya Brahma",
+    name: "Jonnalagada Chaitanya Brahma",
     imgURL: "https://media.licdn.com/dms/image/D4E03AQEpTt2ekA8CXA/profile-displayphoto-shrink_800_800/0/1679324538533?e=1684972800&v=beta&t=5uzdAF8h9XYflj9-Q9CafGi8TjYf9S2ctnhJ8-Htdz8",
     phone: "+1 (980) 347-5113",
     email: "jonnal02@email.franklin.edu",
